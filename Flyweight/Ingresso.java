@@ -1,5 +1,6 @@
 package Flyweight;
 
+//Essa é a classe concreta que implementa o Flyweight
 //Aqui essa classe contém o estado intríseco ou seja, os dados compartilháveis
 
 public class Ingresso implements IngressoFlyweight {
